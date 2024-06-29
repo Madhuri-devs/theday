@@ -2,8 +2,8 @@ body {
 	background-color: #f2f2f2; /* light gray background */
 	font-family: Arial, sans-serif;
 	text-align: center;
-    background-image: url(bdaygif.gif);
-    background-size: cover;
+   	background-image: url(bdaygif.gif);
+   	background-size: cover;
 }
 
 h1 {
